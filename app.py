@@ -24,7 +24,7 @@ st.image("logo.ipg.jpeg")
 # TIÊU ĐỀ
 # =============================
 st.title("📈 TRỰC QUAN HÓA GIÁ CỔ PHIẾU VÀ KIỂM ĐỊNH MANN-KENDALL")
-st.subheader("ĐÈ TÀU 5- Nguyễn Huỳnh Ngọc Hà")
+st.subheader("ĐÈ TÀU 4- Nguyễn Huỳnh Ngọc Hà")
 
 st.markdown("---")
 
