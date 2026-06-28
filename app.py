@@ -18,13 +18,13 @@ st.set_page_config(
 # =============================
 # LOGO
 # =============================
-st.image("logo.jpg.ipeg")
+st.image("logo.ipg.jpeg")
 
 # =============================
 # TIÊU ĐỀ
 # =============================
 st.title("📈 TRỰC QUAN HÓA GIÁ CỔ PHIẾU VÀ KIỂM ĐỊNH MANN-KENDALL")
-st.subheader("Nguyễn Huỳnh Ngọc Hà")
+st.subheader("ĐÈ TÀU 5- Nguyễn Huỳnh Ngọc Hà")
 
 st.markdown("---")
 
